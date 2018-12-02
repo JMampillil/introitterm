@@ -17,3 +17,27 @@ h2 {
 .h2texts {
   font-size: 150%;
 }
+footer {
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 200%;
+  font-family: 'Sedgwick Ave', sans-serif;
+}
+#Footer li{
+  list-style: none;
+  display: inline;
+  margin: auto 1.5em auto 1.5em;
+}
+#webForm {
+}
+#timeForm {
+}
+#audio {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+#siteList {
+}
+#timer {
+  font-size: 150%;
+}
