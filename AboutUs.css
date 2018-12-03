@@ -11,13 +11,13 @@ body {
   background-color: #cccccc;
 }
 #Welcome {
-  font-size: 300%;
+  font-size: 225%;
 }
 h2 {
-  font-size: 215%;
+  font-size: 175%;
 }
 .h2texts {
-  font-size: 190%;
+  font-size: 125%;
   text-align: center;
   padding: 0px 40px 20px 40px;
 }
@@ -31,20 +31,4 @@ footer {
   list-style: none;
   display: inline;
   margin: auto 1.5em auto 1.5em;
-}
-#webForm {
-}
-#timeForm {
-}
-#audio {
-  margin-top: 1.25em;
-  margin-bottom: 1.25em;
-}
-#siteList {
-  font-size: 125%;
-  font-weight: bold;
-}
-#timer {
-  font-size: 150%;
-  font-weight: bold;
 }
